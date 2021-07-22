@@ -39,7 +39,7 @@ education:
       year: 2012
     - course: BS in Psychology; Minor in Statistics
       institution: Florida State University
-      year: 2009
+      year: 2010
 superuser: true
 highlight_name: false
 title: Jamie Quinn
