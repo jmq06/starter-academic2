@@ -42,6 +42,8 @@ highlight_name: false
 title: Jamie Quinn
 email: ""
 ---
-Jamie Quinn is a research scientist at the Florida Center for Reading Research. Her current roles include psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative.  
+Jamie Quinn is a research scientist at the Florida Center for Reading Research. Her current roles include psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative.  Before joining FCRR in 2017, she served as a Postdoctoral Research Fellow at The University of Texas at Austin with Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
+
+Outside of work she enjoys spending time with her husband, watching sports of all kinds (Go Noles, Let's Go Twins, Skol Vikings, Go Spurs Go, Let's Go Rangers, and Hook 'em Horns!), weightlifting, and cuddling with her two cats. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
