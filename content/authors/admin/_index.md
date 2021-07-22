@@ -1,6 +1,6 @@
 ---
 role: Research Faculty I
-avatar_filename: people_quinn_jamie.png
+avatar_filename: avatar.png
 bio: I am a psychometrician for the Reach Every Reader project interested in
   language and literacy development in young children.
 interests:
