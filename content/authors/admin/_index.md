@@ -49,4 +49,4 @@ Jamie Quinn is a research scientist at the Florida Center for Reading Research. 
 
 Outside of work she enjoys spending time with her husband, watching sports of all kinds (Go Noles, Let's Go Twins, Skol Vikings, Go Spurs Go, Let's Go Rangers, and Hook 'em Horns!), weightlifting, and cuddling with her two cats. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
