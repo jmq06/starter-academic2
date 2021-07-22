@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/jamie-quinn/
 organizations:
   - name: Florida Center for Reading Research
-    #url: www.fcrr.org
+    url: 'www.fcrr.org'
 education:
   courses:
     - course: MS in Interdisciplinary Data Science
