@@ -9,9 +9,9 @@ subtitle: Welcome to my new page!
 date: 2021-07-22T19:56:45.472Z
 featured: false
 tags:
-  - welcome
+  - blog
 categories:
-  - welcome
+  - blog
 projects: []
 image:
   caption: ""
