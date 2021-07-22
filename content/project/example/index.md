@@ -4,7 +4,7 @@ url_pdf: ""
 summary: Project to be updated shortly.
 url_video: ""
 date: 2021-07-22T20:19:15.375Z
-external_link:""
+external_link: 
 url_slides: ""
 title: Simple Audio File Extraction Exercise
 subtitle: For when you want to copy some files from one directory to another
