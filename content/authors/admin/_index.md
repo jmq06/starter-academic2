@@ -42,10 +42,6 @@ highlight_name: false
 title: Jamie Quinn
 email: ""
 ---
-Jamie Quinn is a research scientist at the Florida Center for Reading Research. Her current roles include psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative. She 
-
-
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jamie Quinn is a research scientist at the Florida Center for Reading Research. Her current roles include psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
