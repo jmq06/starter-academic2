@@ -28,6 +28,9 @@ organizations:
     url: www.fcrr.org
 education:
   courses:
+    - course: MS in Interdisciplinary Data Science
+      institution: Florida State University
+      year: ""
     - course: PhD in Developmental Psychology
       institution: Florida State University
       year: 2016
