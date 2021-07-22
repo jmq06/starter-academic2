@@ -1,5 +1,5 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
 summary: Project to be updated shortly.
 url_video: ""
