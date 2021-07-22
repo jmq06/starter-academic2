@@ -30,7 +30,7 @@ education:
   courses:
     - course: MS in Interdisciplinary Data Science
       institution: Florida State University
-      year: ""
+      year: 2023
     - course: PhD in Developmental Psychology
       institution: Florida State University
       year: 2016
