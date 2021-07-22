@@ -47,6 +47,6 @@ email: ""
 ---
 Jamie Quinn, PhD is a research scientist at the Florida Center for Reading Research. Her current roles include psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative and methodologist for the Quantitative Methodology and Innovation Division at FCRR.  Before joining FCRR in 2017, she served as a Postdoctoral Research Fellow at The University of Texas at Austin with Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
 
-Outside of work she enjoys spending time with her husband, watching sports of all kinds (Go Noles, Let's Go Twins, Skol Vikings, Go Spurs Go, Let's Go Rangers, and Hook 'em Horns!), weightlifting, and cuddling with her two cats. 
+Outside of work she enjoys spending time with her husband, watching sports of all kinds, reading sci-fi and fantasy novels, weightlifting, and cuddling with her two cats. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
