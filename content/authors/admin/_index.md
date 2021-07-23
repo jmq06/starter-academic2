@@ -1,8 +1,8 @@
 ---
 role: Research Faculty I
 avatar_filename: avatar.png
-bio: Dr. Quinn is a psychometrician for the Reach Every Reader project
-  interested in language and literacy development in young children.
+bio: Dr. Quinn is a research scientist in the Florida Center for Reading
+  Research at Florida State University.
 interests:
   - Psychometrics
   - Longitudinal Modeling
@@ -25,7 +25,9 @@ social:
     link: https://www.linkedin.com/in/jamie-quinn/
 organizations:
   - name: Florida Center for Reading Research
-   # url: 'www.fcrr.org'
+    url: https://www.fcrr.org/
+  - name: Florida State University
+    url: https://www.fsu.edu/
 education:
   courses:
     - course: MS in Interdisciplinary Data Science
@@ -45,7 +47,7 @@ highlight_name: false
 title: Jamie Quinn
 email: ""
 ---
-Jamie Quinn, PhD is a research scientist at the Florida Center for Reading Research. Her current roles include psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative and methodologist for the Quantitative Methodology and Innovation Division at FCRR.  Before joining FCRR in 2017, she served as a Postdoctoral Research Fellow at The University of Texas at Austin with Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
+Jamie Quinn, PhD is a research scientist at the Florida Center for Reading Research. Her current roles include psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative and methodologist for the Quantitative Methodology and Innovation Division at FCRR.  Before joining FCRR in 2017, she served as a Postdoctoral Research Fellow at The University of Texas at Austin under the mentorship of Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
 
 Outside of work she enjoys spending time with her husband, watching sports of all kinds, reading sci-fi and fantasy novels, weightlifting, and cuddling with her two cats. 
 
