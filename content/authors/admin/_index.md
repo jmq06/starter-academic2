@@ -47,7 +47,7 @@ highlight_name: false
 title: Jamie Quinn
 email: ""
 ---
-Jamie Quinn, PhD is a research scientist in the Florida Center for Reading Research at Florida State University. She is the psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative and a methodologist for the Quantitative Methodology and Innovation Division at FCRR.  Before joining FCRR in 2017, she served as a Postdoctoral Research Fellow at The University of Texas at Austin under the mentorship of Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
+Dr. Jamie Quinn is a research scientist in the Florida Center for Reading Research at Florida State University. She is the psychometrician and data analyst for the Reach Every Reader project funded by the Chan Zuckerberg Initiative and a methodologist for the Quantitative Methodology and Innovation Division at FCRR.  Before joining FCRR in 2017, she served as a Postdoctoral Research Fellow at The University of Texas at Austin under the mentorship of Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
 
 Dr. Quinn is starting the Interdisciplinary Data Science Masters Program as a Computer Science Major at FSU in Fall 2021 to further her computer programming and data science learning. 
 
