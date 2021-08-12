@@ -2,7 +2,7 @@
 title: Q&A with Harvard GSE
 subtitle: Reprinted from the Harvard GSE website
 date: 2021-08-12T14:26:58.791Z
-summary: Q&A with the Reach Every Reader Project
+summary: Here is a reprint of my Q&A with the Reach Every Reader Project at Harvard GSE.
 draft: false
 featured: false
 tags:
