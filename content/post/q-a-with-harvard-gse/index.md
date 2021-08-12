@@ -5,6 +5,8 @@ date: 2021-08-12T14:26:58.791Z
 summary: Q&A with the Reach Every Reader Project
 draft: false
 featured: false
+tags:
+  - blog
 image:
   filename: featured
   focal_point: Smart
