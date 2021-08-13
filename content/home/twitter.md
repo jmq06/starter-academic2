@@ -2,7 +2,7 @@
 widget: blank
 widget_id: twitter
 headless: true
-weight: 50
+weight: 25
 active: true
 design:
   columns: "2"
