@@ -3,6 +3,7 @@ widget: blank
 widget_id: twitter
 headless: true
 weight: 25
+title: Twitter Feed
 active: true
 design:
   columns: "2"
