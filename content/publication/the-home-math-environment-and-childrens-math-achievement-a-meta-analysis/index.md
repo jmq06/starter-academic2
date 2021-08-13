@@ -43,7 +43,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-summary: he findings of this meta-analysis suggest that children’s home math
+summary: The findings of this meta-analysis suggest that children’s home math
   environments (e.g., parent-child math interactions) are positively associated
   with children’s math achievement. To promote children’s math skills, it may be
   beneficial to support parents in providing positive home math experiences for
