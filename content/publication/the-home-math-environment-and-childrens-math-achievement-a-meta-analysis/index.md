@@ -36,7 +36,7 @@ abstract: "Mathematical thinking is in high demand in the global market, but
   many levels of environmental input (Bronfenbrenner, 1979) and the specificity
   of input children receive (Bornstein, 2002). "
 draft: false
-url_pdf: "/publication/the-home-math-environment-and-childrens-math-achievement-a-meta-analysis/Math_HME_meta-analysis_Daucourt2021.pdf"
+url_pdf: "/uploads/Math_HME_meta-analysis_Daucourt2021.pdf"
 featured: true
 tags:
   - meta-analysis
