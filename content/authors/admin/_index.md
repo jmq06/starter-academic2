@@ -55,4 +55,4 @@ Outside of work she enjoys spending time with her husband, watching sports of al
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
 
-<a class="twitter-timeline" href="https://twitter.com/latentchange?ref_src=twsrc%5Etfw">Tweets by latentchange</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="650" data-height="350" data-theme="dark" href="https://twitter.com/latentchange?ref_src=twsrc%5Etfw">Tweets by latentchange</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
