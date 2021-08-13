@@ -51,8 +51,6 @@ Dr. Jamie Quinn is a research scientist in the Florida Center for Reading Resear
 
 Dr. Quinn is starting the Interdisciplinary Data Science Masters Program as a Computer Science Major at FSU in Fall 2021 to further her computer programming and data science learning. 
 
-Outside of work she enjoys spending time with her husband, watching sports of all kinds, reading sci-fi and fantasy novels, weightlifting and running, and cuddling with her two cats. 
+Outside of work she enjoys spending time with her husband, watching sports of all kinds, reading sci-fi and fantasy novels, weightlifting and running, and cuddling with her two cats.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
-
-<a class="twitter-timeline" data-width="650" data-height="350" data-theme="dark" href="https://twitter.com/latentchange?ref_src=twsrc%5Etfw">Tweets by latentchange</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
