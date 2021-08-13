@@ -39,8 +39,12 @@ draft: false
 featured: true
 tags:
   - meta-analysis
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
 image:
-  filename: ""
+  filename: "featured.jpg"
   focal_point: Smart
   preview_only: false
 summary: The findings of this meta-analysis suggest that children’s home math
