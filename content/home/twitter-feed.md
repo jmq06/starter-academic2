@@ -2,7 +2,7 @@
 widget: blank
 widget_id: twitter-feed
 headless: true
-weight: 20
+weight: 90
 title: Twitter Feed
 active: true
 design:
