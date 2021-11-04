@@ -53,4 +53,4 @@ Dr. Quinn is starting the Interdisciplinary Data Science Masters Program as a Co
 
 Outside of work she enjoys spending time with her husband, watching sports of all kinds, reading sci-fi and fantasy novels, weightlifting and running, and cuddling with her two cats.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV here{{< /staticref >}} or my {{< staticref "uploads/resume2.pdf" "newtab" >}}CV brief resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV here{{< /staticref >}} or my {{< staticref "uploads/resume2.pdf" "newtab" >}}brief resume here{{< /staticref >}}.
