@@ -50,7 +50,7 @@ highlight_name: false
 title: Jamie Quinn
 email: ""
 ---
-I'm a research scientist in the Florida Center for Reading Research at Florida State University. I currently serve as data manager and data analyst for the [Reach Every Reader project ](https://reacheveryreader.gse.harvard.edu/)funded by the Chan Zuckerberg Initiative and a methodologist for the [Quantitative Methodology and Innovation Division](qmi.fsu.edu) at FCRR.  Before joining FCRR in 2017, I was a Postdoctoral Research Fellow at The University of Texas at Austin under the mentoring of Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
+I am a research scientist in the Florida Center for Reading Research at Florida State University. I currently serve as data manager and data analyst for the [Reach Every Reader project ](https://reacheveryreader.gse.harvard.edu/)funded by the Chan Zuckerberg Initiative and a methodologist for the [Quantitative Methodology and Innovation Division](qmi.fsu.edu) at FCRR.  Before joining FCRR in 2017, I was a Postdoctoral Research Fellow at The University of Texas at Austin under the mentoring of Greg Roberts and Sharon Vaughn in the Meadows Center for Preventing Educational Risk. 
 
 I am a current student in the Interdisciplinary Data Science Masters Program as a Computer Science Major at FSU.
 
