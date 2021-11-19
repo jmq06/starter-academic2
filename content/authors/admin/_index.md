@@ -7,6 +7,7 @@ interests:
   - Psychometrics
   - Longitudinal Modeling
   - Structural Equation Modeling
+  - Machine Learning
   - Database Management
   - Rstats Python & MySQL
 social:
