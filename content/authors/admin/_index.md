@@ -7,10 +7,8 @@ interests:
   - Psychometrics
   - Longitudinal Modeling
   - Structural Equation Modeling
-  - DatabaseManagement
-  - Rstats
-  - Python
-  - MySQL
+  - Database Management
+  - Rstats Python & MySQL
 social:
   - icon: envelope
     icon_pack: fas
