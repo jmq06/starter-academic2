@@ -20,4 +20,4 @@ title: Biography
 author: admin
 ---
 
-<a class="twitter-timeline" data-width="650" data-height="350" data-theme="dark" href="https://twitter.com/latentchange?ref_src=twsrc%5Etfw">Tweets by latentchange</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="650" data-height="350" data-theme="dark" href="https://twitter.com/_quinntuition?ref_src=twsrc%5Etfw">Tweets by Jamie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
