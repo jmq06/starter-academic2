@@ -2,7 +2,7 @@
 role: Senior Data Analyst
 avatar_filename: avatar.png
 bio: Dr. Quinn is Senior Data Analyst at Hubble Contacts, a direct-to-consumer contact lens company specializing in subscription-based contact lens delivery.
-interests:
+Specialties:
   - Google BigQuery (SQL) and Python
   - Data Analytics and Visualizations
   - KPI Dashboarding
