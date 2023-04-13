@@ -43,11 +43,12 @@ email: ""
 
 Currently, I am Senior Data Analyst at [Hubble Contacts](https://www.hubblecontacts.com/). Hubble specializes in subscription-based contact lens delivery, providing fast, easy service with direct delivery of your contacts right to your home. 
 
-In my role, I liase with multiple departments including Finance, Marketing, and Operations to ensure smoothly-running analytics pipelines. 
-- I am a member of the finance team, where I have worked with our Controller to overhaul our financial planning model to ensure more accurate forecasting of our P&L reports. I also maintain weekly reporting of key performance indicators of our business. 
-- I work closely with our Chief Marketing Officer and Director of Digital Media to calculate our marketing analytics including customer acqusitions, clicks and click-through rates, and customer retention and churn rates. 
+In my role, I liase with multiple departments including Finance, Marketing, and Operations to ensure smoothly-running analytics pipelines:
+- As a member of the finance team, I have worked with our Controller to overhaul our financial planning model to ensure more accurate forecasting of our P&L reports. I also maintain weekly reporting of key performance indicators of our business from a financial perspective.
+- I work closely with our Chief Marketing Officer and Director of Digital Media to calculate our marketing KPIs, e.g., customer acqusition numbers and associated costs, clicks and click-through rates, and customer retention and churn metrics. 
 - I consult with our Vice President of Strategy to discuss best practices for customer acquisition and retention in conjunction with our marketing and finance teams. 
 - Further, I also interface with operations, including directly with our Senior Vice President of Operations, to build our warehousing metrics and provide product-specific analytics.
+- Finally, I have a direct line of communication with our CEO, where I am able to offer actionable insights and suggestions through my work in partnership with other departments and people. 
 
 Presently I specialize in Google BigQuery for database querying and management and aggregate analytics, Google Analytics and Supermetrics for marketing metrics, Tableau for dashboarding and visualizations, and Python for more nuanced data science and analytics and data management. 
 
