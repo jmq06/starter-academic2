@@ -33,14 +33,14 @@ email: quinn.jamiem@gmail.com
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'By appointment only - please email'
+# office_hours:
+#   - 'By appointment only - please email'
 #appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: Follow Me
-    link: 'https://twitter.com/latentchange'
+    link: 'https://twitter.com/_quinntuition'
  # - icon: skype
  #   icon_pack: fab
  #   name: Skype Me
