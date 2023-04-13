@@ -41,7 +41,7 @@ title: Jamie Quinn
 email: ""
 ---
 
-Currently, I am Senior Data Analyst at [Hubble Contacts](https://www.hubblecontacts.com/). Hubble specializes in subscription-based contact lens delivery, providing fast, easy service with direct delivery of your contacts right to your home. 
+I am Senior Data Analyst at [Hubble Contacts](https://www.hubblecontacts.com/). Hubble specializes in subscription-based contact lens delivery, providing fast, easy service with direct delivery of your contacts right to your home. 
 
 In my role, I liase with multiple departments including Finance, Marketing, and Operations to ensure smoothly-running analytics pipelines:
 - As a member of the finance team, I have worked with our Controller to overhaul our financial planning model to ensure more accurate forecasting of our P&L reports. I also maintain weekly reporting of key performance indicators of our business from a financial perspective.
