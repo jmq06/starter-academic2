@@ -51,9 +51,9 @@ In my role, I liaise with multiple departments including Finance, Marketing, and
 - Further, I also interface with operations, including directly with our Senior Vice President of Operations, to build our warehousing metrics and provide product-specific analytics.
 - Finally, I have a direct line of communication with our CEO, where I am able to offer actionable insights and suggestions through my work in partnership with other departments and people. 
 
-Presently I specialize in Google BigQuery for database querying and management and aggregate analytics, Google Analytics and Supermetrics for marketing metrics, Tableau for dashboarding and visualizations, and Python for more nuanced data science and analytics and data management. 
+Presently I specialize in Google BigQuery for database querying and aggregate data analytics, Google Analytics and Supermetrics for marketing metrics, Tableau for dashboarding and visualizations, and Python for more nuanced data science and data management. 
 
-Formerly, I was a research scientist in the Florida Center for Reading Research at Florida State University, where I served as data scientist for the [Reach Every Reader project ](https://reacheveryreader.gse.harvard.edu/)funded by the Chan Zuckerberg Initiative and a methodologist for the [Quantitative Methodology and Innovation Division](qmi.fsu.edu) at FCRR. Before joining FCRR in 2017, I was a Postdoctoral Research Fellow at The University of Texas at Austin in the Meadows Center for Preventing Educational Risk. 
+Formerly, I was a research scientist in the Florida Center for Reading Research at Florida State University, where I served as data scientist and psychometrician for the [Reach Every Reader project ](https://reacheveryreader.gse.harvard.edu/)funded by the Chan Zuckerberg Initiative and a methodologist for the [Quantitative Methodology and Innovation Division](qmi.fsu.edu) at FCRR. Before joining FCRR in 2017, I was a Postdoctoral Research Fellow at The University of Texas at Austin in the Meadows Center for Preventing Educational Risk. 
 
 Outside of work I enjoy spending time with my husband catching up on Star Wars and Star Trek episodes, running and training for races, watching sports of all kinds, reading sci-fi and fantasy novels, and cuddling with my two cats.
 
