@@ -1,9 +1,10 @@
 ---
 title: Jamie Quinn
-role: Senior Data Analyst
+role: Manager, Data Analytics
 avatar_filename: avatar.png
-bio: Dr. Quinn is Senior Data Analyst at Hubble Contacts, a direct-to-consumer
-  contact lens company specializing in subscription-based contact lens delivery.
+bio: Dr. Quinn is Manager of Data Analytics at Hubble Contacts, a
+  direct-to-consumer contact lens company specializing in subscription-based
+  contact lens delivery.
 interests:
   - Google BigQuery (SQL) and Python
   - Data Analytics and Visualizations
@@ -42,7 +43,7 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! I'm Jamie Quinn, Senior Data Analyst at [Hubble Contacts](https://www.hubblecontacts.com/). Hubble specializes in a subscription-based contact lens delivery service where we provide fast, easy direct delivery of contact lenses right to your home.
+Hi! I'm Jamie Quinn, Manager of Data Analytics at [Hubble Contacts](https://www.hubblecontacts.com/). Hubble specializes in a subscription-based contact lens delivery service where we provide fast, easy direct delivery of contact lenses right to your home.
 
 In my role, I liaise with multiple departments including Finance, Marketing, and Operations to ensure smoothly-running analytics pipelines:
 - As a member of the finance team, I worked with our Controller to overhaul our financial planning model to ensure more accurate forecasting of our P&L reports. I also maintain weekly reporting of key performance indicators of our business from a financial perspective.
