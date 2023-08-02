@@ -20,7 +20,7 @@ social:
     link: https://twitter.com/_quinntuition
   - icon: github
     icon_pack: fab
-    link: https://github.com/jmq06
+    link: https://github.com/jamie-quinn
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jamie-quinn/
